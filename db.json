@@ -1,0 +1,44 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Ivana",
+            "email": "homeschoolIvana@mail.com"
+        },
+        {
+            "id": 2,
+            "name": "Maria",
+            "email": "homemMaria@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Joro",
+            "email": "schooljoro@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Vladi",
+            "email": "schoolvladi@mail.com"
+        },
+        {
+            "id": 5,
+            "name": "Martin",
+            "email": "schoolMartin@email.com"
+        },
+        {
+            "id": 6,
+            "name": "Gosho",
+            "email": "schoolGosho@email.com"
+
+        },
+        {
+            "id": 7,
+            "name": "Test USER",
+            "email": "Test_User@mail.com"
+        },
+        {
+            "id": 8,
+            "name": "",
+            "email": ""
+        }
+    ]
+}
